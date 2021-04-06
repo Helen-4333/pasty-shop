@@ -1,0 +1,26 @@
+C:\Users\bbarz\Desktop\практика кондитерская\server\server\bin\Debug\netcoreapp3.1\server.exe
+C:\Users\bbarz\Desktop\практика кондитерская\server\server\bin\Debug\netcoreapp3.1\server.deps.json
+C:\Users\bbarz\Desktop\практика кондитерская\server\server\bin\Debug\netcoreapp3.1\server.runtimeconfig.json
+C:\Users\bbarz\Desktop\практика кондитерская\server\server\bin\Debug\netcoreapp3.1\server.runtimeconfig.dev.json
+C:\Users\bbarz\Desktop\практика кондитерская\server\server\bin\Debug\netcoreapp3.1\server.dll
+C:\Users\bbarz\Desktop\практика кондитерская\server\server\bin\Debug\netcoreapp3.1\server.pdb
+C:\Users\bbarz\Desktop\практика кондитерская\server\server\obj\Debug\netcoreapp3.1\server.csprojAssemblyReference.cache
+C:\Users\bbarz\Desktop\практика кондитерская\server\server\obj\Debug\netcoreapp3.1\server.AssemblyInfoInputs.cache
+C:\Users\bbarz\Desktop\практика кондитерская\server\server\obj\Debug\netcoreapp3.1\server.AssemblyInfo.cs
+C:\Users\bbarz\Desktop\практика кондитерская\server\server\obj\Debug\netcoreapp3.1\server.csproj.CoreCompileInputs.cache
+C:\Users\bbarz\Desktop\практика кондитерская\server\server\obj\Debug\netcoreapp3.1\server.dll
+C:\Users\bbarz\Desktop\практика кондитерская\server\server\obj\Debug\netcoreapp3.1\server.pdb
+C:\Users\bbarz\Desktop\практика кондитерская\server\server\obj\Debug\netcoreapp3.1\server.genruntimeconfig.cache
+C:\Users\helen\OneDrive\Документы\Учебная практика 2021\практика кондитерская\server\server\bin\Debug\netcoreapp3.1\server.exe
+C:\Users\helen\OneDrive\Документы\Учебная практика 2021\практика кондитерская\server\server\bin\Debug\netcoreapp3.1\server.deps.json
+C:\Users\helen\OneDrive\Документы\Учебная практика 2021\практика кондитерская\server\server\bin\Debug\netcoreapp3.1\server.runtimeconfig.json
+C:\Users\helen\OneDrive\Документы\Учебная практика 2021\практика кондитерская\server\server\bin\Debug\netcoreapp3.1\server.runtimeconfig.dev.json
+C:\Users\helen\OneDrive\Документы\Учебная практика 2021\практика кондитерская\server\server\bin\Debug\netcoreapp3.1\server.dll
+C:\Users\helen\OneDrive\Документы\Учебная практика 2021\практика кондитерская\server\server\bin\Debug\netcoreapp3.1\server.pdb
+C:\Users\helen\OneDrive\Документы\Учебная практика 2021\практика кондитерская\server\server\obj\Debug\netcoreapp3.1\server.csprojAssemblyReference.cache
+C:\Users\helen\OneDrive\Документы\Учебная практика 2021\практика кондитерская\server\server\obj\Debug\netcoreapp3.1\server.AssemblyInfoInputs.cache
+C:\Users\helen\OneDrive\Документы\Учебная практика 2021\практика кондитерская\server\server\obj\Debug\netcoreapp3.1\server.AssemblyInfo.cs
+C:\Users\helen\OneDrive\Документы\Учебная практика 2021\практика кондитерская\server\server\obj\Debug\netcoreapp3.1\server.csproj.CoreCompileInputs.cache
+C:\Users\helen\OneDrive\Документы\Учебная практика 2021\практика кондитерская\server\server\obj\Debug\netcoreapp3.1\server.dll
+C:\Users\helen\OneDrive\Документы\Учебная практика 2021\практика кондитерская\server\server\obj\Debug\netcoreapp3.1\server.pdb
+C:\Users\helen\OneDrive\Документы\Учебная практика 2021\практика кондитерская\server\server\obj\Debug\netcoreapp3.1\server.genruntimeconfig.cache
